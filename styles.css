@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+#container{
+	border: 10px solid black;
+	padding:10px;
+	height:150px;
+    width: 650px;
+    display:inline-block;
+	border-radius:40px;
+}
+
+#red{
+	width:100px;
+	height:100px;
+	background-color:red;
+	border-radius:50%;
+	margin-left:50px;
+	margin-top:20px;
+	text-align:center;
+    display:inline-block;
+	
+   
+}
+#green{
+	width:100px;
+	height:100px;
+	background-color:green;
+	border-radius:50%;
+	 margin-left:100px;
+	margin-top:20px;
+	text-align:center; 
+    display:inline-block;
+	
+	
+}
+
+#yellow{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+	border-radius:50%;
+	margin-left:100px;
+	margin-top:20px;
+	text-align:center;
+    display:inline-block;
+    
+	
+}
